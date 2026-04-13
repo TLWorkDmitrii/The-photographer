@@ -1,0 +1,22 @@
+<?xml version="1.0"?><svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <title>up-grey-arrow</title>
+ <defs>
+  <linearGradient id="linearGradient4738">
+   <stop stop-color="#ffffff" stop-opacity="0.726563" offset="0" id="stop4740"/>
+   <stop stop-color="#ffffff" offset="1" id="stop4742"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4554">
+   <stop stop-color="#ffffff" offset="0" id="stop4556"/>
+   <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="stop4558"/>
+  </linearGradient>
+  <linearGradient xlink:href="#linearGradient4738" id="linearGradient6038" x1="-0.499017" y1="-0.914713" x2="0.349755" y2="-0.062103"/>
+  <linearGradient xlink:href="#linearGradient4554" id="linearGradient6041" x1="-0.470641" y1="-0.395304" x2="-0.083763" y2="0.186124"/>
+ </defs>
+ <metadata id="metadata4">image/svg+xml</metadata>
+ <g>
+  <path fill="#202012" fill-rule="nonzero" stroke="white" stroke-width="0" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path5182" d="m218.981995,44.090099c0,13.3536 -10.824997,24.178898 -24.179001,24.178898c-13.352997,0 -24.179001,-10.825298 -24.179001,-24.178898c0,-13.3536 10.826004,-24.1789 24.179001,-24.1789c13.354004,0 24.179001,10.8253 24.179001,24.1789z"/>
+  <path fill="url(#linearGradient6041)" fill-rule="nonzero" stroke-width="0.616072" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m194.787994,19.9245c-13.347,0 -24.174988,10.828001 -24.174988,24.174801c0,6.412601 2.616989,12.142899 6.694992,16.472c2.119003,-17.5005 16.889999,-31.107201 34.959,-31.107201c0.487,0 0.938995,0.0989 1.421997,0.1185c-4.421997,-5.7507 -11.091995,-9.6581 -18.901001,-9.6581z" id="path5184"/>
+  <path fill="#ffffff" fill-rule="nonzero" stroke-width="1.750002" stroke-linecap="round" stroke-linejoin="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path5186" d="m179.012543,48.17231l4.131348,4.13134l11.700333,-11.700359l11.588165,11.58815l4.161926,-4.161942l-15.719482,-15.71949l-15.862289,15.862301z"/>
+  <title>Layer 1</title>
+ </g>
+</svg>
