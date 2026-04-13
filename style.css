@@ -285,6 +285,12 @@ html{
         margin-top: 15px;
         margin-bottom: 15px;
     }
+    .Photo_title{
+    margin-right:15px
+    }
+    .line_big {
+    height: 3px;
+    }
     h1{
     font-size: 35px;
     }
@@ -300,7 +306,7 @@ html{
         min-width: 180px;
         width: 180px;
     }
-}
+
 
 @media(max-width: 470px) /* 700 */ {
     .photo_main img{
@@ -342,6 +348,12 @@ html{
     .line{
         margin-top: 8px;
         margin-bottom: 8px;
+    }
+    .Photo_title{
+    margin-right:7px
+    }
+    .line_big {
+    height: 2px;
     }
     .photo_main img{
         min-width: 125px;
