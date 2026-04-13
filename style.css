@@ -163,9 +163,6 @@ h3{
 .bottom_left{
     margin-right: 10%;
 }
-.bottom_left i{
-
-}
 .bottom_left h2{
     margin-right: 14%;
     margin-bottom: 0;
@@ -283,10 +280,8 @@ html{
 @media(max-width: 650px) /* 700 */ {
     #line1{
         width: 85%;
-        margin-top: 15px;
-        margin-bottom: 15px;
     }
-    #line2{
+    .line{
         margin-top: 15px;
         margin-bottom: 15px;
     }
@@ -309,8 +304,12 @@ html{
 
 @media(max-width: 470px) /* 700 */ {
     .photo_main img{
-        min-width: 150px;
-        width: 150px;
+        min-width: 140px;
+        width: 100%;
+    }
+    .line{
+        margin-top: 12px;
+        margin-bottom: 12px;
     }
     h1{
     font-size: 25px;
@@ -320,6 +319,12 @@ html{
     }
     h3{
     font-size: 14px;
+    }
+    .photo{
+    margin-right: 5px;
+    }
+    .photos_item{
+    margin-bottom: 15px;
     }
     .section{
     padding-top: 10px;
@@ -334,11 +339,57 @@ html{
     #line1{
         width: 80%;
     }
+    .line{
+        margin-top: 8px;
+        margin-bottom: 8px;
+    }
     .photo_main img{
-        min-width: 1px;
+        min-width: 125px;
         width: 100%;
     }
     .kst{
         display: none;
+    }
+    
+    h1{
+    font-size: 20px;
+    }
+    h2{
+    font-size: 14px;
+    line-height: 100%;
+    }
+    h3{
+    font-size: 12px;
+    }
+    .about_str{
+    line-height: 80%;
+    }
+    .photo{
+    margin-right: 5px;
+    }
+    .photos_item{
+    margin-bottom: 5px;
+    }
+    .section{
+    padding-top: 5px;
+    }
+    .first_line{
+    margin-bottom: 5px;
+    }
+}
+@media(max-width: 300px) /* 700 */ {
+    .photo_main img{
+        min-width: 100px;
+        width: 100%;
+    }
+    .line{
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    .section{
+    padding-top: 0px;
+    }
+    .first_line{
+    margin-bottom: 0px;
     }
 }
